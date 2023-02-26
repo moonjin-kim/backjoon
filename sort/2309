@@ -1,0 +1,19 @@
+humans = []
+
+for _ in range(9):
+    humans.append(int(input()))
+
+humans.sort()
+
+sum_humans = sum(humans) - 100
+for i in range(8):
+    for j in range(i+1,9):
+        if sum_humans == humans[i] + humans[j]:
+            a = humans[i]
+            b = humans[j]
+
+humans.sort()
+
+for i in range(9):
+    if humans[i] != a and humans[i] != b:
+        print(humans[i])
