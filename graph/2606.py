@@ -2,33 +2,29 @@ import sys
 from collections import deque
 input = sys.stdin.readline
 
-N, M, R = map(int, input().split())
+N = int(input())
+M = int(input())
 
-visited = [0 for i in range(N+1)]
 graph = [[] for _ in range(N+1)]
+visited = [0 for _ in range(N+1)]
 
-for i in range(M):
-    start, end = list(map(int,input().split()))
-    graph[start].append(end)
+for _ in range(M):
+    start, end = map(int,input().split())
+    graph[start].append(end) 
     graph[end].append(start)
-
-for i in range(N):
-    graph[i].sort(reverse=True)
-
 
 stack = deque()
 stack.append(1)
-
 visited[1] = 1
-count = 2
+count = 0
 
 while stack:
     index = stack.popleft()
     for k in graph[index]:
         if visited[k] == 0:
-            visited[k] = count
+            visited[k] = 1
             count += 1
             stack.append(k)
 
-for i in range(1,N+1):
-    print(visited[i])
+print(count)
+
