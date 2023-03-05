@@ -14,4 +14,5 @@ for _ in range(N):
             print(-heapq.heappop(heap))
     else:
         heapq.heappush(heap, -num)
+        print(heapq)
 
