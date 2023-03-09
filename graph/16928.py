@@ -37,5 +37,5 @@ while queue:
                 queue.append(move)
                 visited[move] = True
                 dice_cnt[move] = dice_cnt[now] + 1
-print(dice_cnt)
+                
 print(dice_cnt[100])
