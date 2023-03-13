@@ -13,13 +13,13 @@ for i in range(M):
     graph[end].append(start)
 
 for i in range(N):
-    graph[i].sort(reverse=True)
+    graph[i].sort(reverse=true)
 
 
 stack = deque()
-stack.append(1)
+stack.append(R)
 
-visited[1] = 1
+visited[R] = 1
 count = 2
 
 while stack:

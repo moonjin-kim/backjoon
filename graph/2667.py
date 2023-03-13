@@ -23,6 +23,8 @@ for i in range(N):
             max_count += 1
             visited[i][j] = max_count
             result.append(1)
+
+        # BFS
         while stack:
             point = stack.popleft()
             x = point[0]

@@ -16,9 +16,7 @@ for _ in range(M):
 visited[0][0][0] = 1
 
 stack = deque()
-stack.append([0,0])
-count = 0
-
+stack.append((0,0))
 while stack:
     x, y = stack.popleft() 
     n = 1
@@ -30,20 +28,19 @@ while stack:
             n = 0
             if visited[y][x][1] == 0:
              break
-        count += 1
         xx = x+dx[k]
         yy = y+dy[k]
         if 0 <= xx and xx < N and 0 <= yy and yy < M:
             if graph[yy][xx] == '0':
-                if visited[yy][xx][1] == 0 and visited[y][x][1] == 1:
-                    visited[yy][xx][0] = visited[y][x][0] + 1
-                    visited[yy][xx][1] = visited[y][x][1] * n
-                    stack.append([xx,yy])
                 if visited[yy][xx][0] == 0:
                     visited[yy][xx][0] = visited[y][x][0] + 1
                     visited[yy][xx][1] = visited[y][x][1] * n
-                    
-                    stack.append([xx,yy])
+                    stack.append((xx,yy))
+                if visited[yy][xx][1] == 0 and visited[y][x][1] == 1:
+                    visited[yy][xx][0] = visited[y][x][0] + 1
+                    visited[yy][xx][1] = visited[y][x][1] * n
+                    stack.append((xx,yy))
+                
 
 print(-1)
     
