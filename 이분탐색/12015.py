@@ -9,7 +9,7 @@ for num in sequence:
         lis.append(num)
     else:
         start = 0
-        end = len(list)
+        end = len(lis)
         while start < end:
             mid = (start + end) // 2
 
@@ -19,5 +19,4 @@ for num in sequence:
                 end = mid
             
         lis[end] = num
-print(lis)
 print(len(lis)-1)

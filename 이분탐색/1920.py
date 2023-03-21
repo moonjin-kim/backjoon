@@ -11,7 +11,7 @@ for num in search_numbers:
     start = 0
     end = len(numbers) -1
     search = 0
-    while start < end:
+    while start <= end:
         mid = (start + end) // 2
         if numbers[mid] == num:
             search = 1
