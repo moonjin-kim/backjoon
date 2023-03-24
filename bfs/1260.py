@@ -3,8 +3,7 @@ from collections import deque
 import math
 input = sys.stdin.readline
 sys.setrecursionlimit(1000000)
-
-
+print("a")
 N,M,V = map(int,input().split())
 
 graph = [[] for _ in range(N+1)]
@@ -14,7 +13,6 @@ bfs = []
 
 def DFS(start):
     visited[start] = 1
-    print(dfs)
     dfs.append(start)
     for i in graph[start]:
         if visited[i] == 0:
