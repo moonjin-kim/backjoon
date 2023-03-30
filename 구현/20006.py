@@ -3,7 +3,6 @@ import sys
 def assign_player(playerId, playerLevel, rooms):
     for _,  meta in rooms.items():
         leaderLevel = players[meta['leader']]
-        print(playerId)
         if abs(leaderLevel - playerLevel) <= 10 and len(meta['party']) < M -1:
             meta['party'].append(playerId)
             return True
