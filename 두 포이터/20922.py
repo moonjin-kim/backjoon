@@ -7,7 +7,6 @@ num = list(map(int,input().split()))
 end = 0
 dic = [0 for _ in range(100001)]
 max_len = 0
-print(dic[5])
 for start in range(N):
     while end < N:
         if dic[num[end]] < K:
