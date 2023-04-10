@@ -16,6 +16,5 @@ for i in range(N):
         else:
             stack.pop()
     stack.append([i, laser_tops[i]])
-    print(stack)
 
 print(*answer)
