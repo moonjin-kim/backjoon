@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="" />
+    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backtracking/근손실_18429/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +72,7 @@
       <workItem from="1720530989856" duration="2055000" />
       <workItem from="1720605745028" duration="1895000" />
       <workItem from="1720704975897" duration="1373000" />
+      <workItem from="1720957258088" duration="1094000" />
     </task>
     <servers />
   </component>
