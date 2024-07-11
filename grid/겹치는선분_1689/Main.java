@@ -9,8 +9,6 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 public class Main {
-    static int[] checked = new int[1000000000];
-    static int maxLen = 0;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());

@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid/겹치는선분_1689/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/grid/겹치는선분_1689/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1720250958162" duration="2605000" />
       <workItem from="1720446085679" duration="55000" />
       <workItem from="1720530989856" duration="2055000" />
-      <workItem from="1720605745028" duration="654000" />
+      <workItem from="1720605745028" duration="1895000" />
     </task>
     <servers />
   </component>
