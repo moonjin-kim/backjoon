@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DP/공통부분문자열_5582/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gimmunjin/study/backjoon/bfs",
+    "last_opened_file_path": "/Users/gimmunjin/study/backjoon/DP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,8 +43,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bfs" />
       <recent name="$PROJECT_DIR$/DP" />
+      <recent name="$PROJECT_DIR$/bfs" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -100,6 +101,8 @@
       <workItem from="1722821568199" duration="1000" />
       <workItem from="1722865026960" duration="2061000" />
       <workItem from="1722947364164" duration="1465000" />
+      <workItem from="1723038467502" duration="652000" />
+      <workItem from="1723121551534" duration="741000" />
     </task>
     <servers />
   </component>
