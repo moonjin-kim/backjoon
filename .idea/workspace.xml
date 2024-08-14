@@ -29,7 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gimmunjin/study/backjoon/grid",
+    "last_opened_file_path": "/Users/gimmunjin/study/backjoon/DP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -40,8 +40,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/grid" />
       <recent name="$PROJECT_DIR$/DP" />
+      <recent name="$PROJECT_DIR$/grid" />
       <recent name="$PROJECT_DIR$/bfs" />
     </key>
   </component>
@@ -103,6 +103,7 @@
       <workItem from="1723121551534" duration="741000" />
       <workItem from="1723205224155" duration="304000" />
       <workItem from="1723472017586" duration="232000" />
+      <workItem from="1723557016172" duration="530000" />
     </task>
     <servers />
   </component>
