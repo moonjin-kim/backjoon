@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="" />
+    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +31,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gimmunjin/study/backjoon/backtracking&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gimmunjin/study/backjoon/grid&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -40,11 +42,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grid" />
       <recent name="$PROJECT_DIR$/backtracking" />
       <recent name="$PROJECT_DIR$/DP" />
       <recent name="$PROJECT_DIR$/dfs" />
       <recent name="$PROJECT_DIR$/sort" />
-      <recent name="$PROJECT_DIR$/grid" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -117,6 +119,8 @@
       <workItem from="1724423791747" duration="1022000" />
       <workItem from="1724594989152" duration="51000" />
       <workItem from="1724677843264" duration="139000" />
+      <workItem from="1724766499785" duration="62000" />
+      <workItem from="1724824910381" duration="1000" />
     </task>
     <servers />
   </component>
