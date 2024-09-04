@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/grid/햄버거분배_19941/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gimmunjin/study/backjoon/grid",
+    "last_opened_file_path": "/Users/gimmunjin/study/backjoon/이분탐색",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,11 +40,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/이분탐색" />
       <recent name="$PROJECT_DIR$/grid" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/DP" />
       <recent name="$PROJECT_DIR$/backtracking" />
-      <recent name="$PROJECT_DIR$/dfs" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -126,6 +123,7 @@
       <workItem from="1725022288441" duration="616000" />
       <workItem from="1725199271830" duration="77000" />
       <workItem from="1725284662303" duration="686000" />
+      <workItem from="1725373588234" duration="39000" />
     </task>
     <servers />
   </component>
