@@ -29,7 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gimmunjin/study/backjoon/이분탐색",
+    "last_opened_file_path": "/Users/gimmunjin/study/backjoon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -40,9 +40,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/이분탐색" />
       <recent name="$PROJECT_DIR$/grid" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/DP" />
       <recent name="$PROJECT_DIR$/backtracking" />
     </key>
@@ -124,6 +124,7 @@
       <workItem from="1725199271830" duration="77000" />
       <workItem from="1725284662303" duration="686000" />
       <workItem from="1725373588234" duration="39000" />
+      <workItem from="1725457895710" duration="245000" />
     </task>
     <servers />
   </component>
