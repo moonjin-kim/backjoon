@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/ch19.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +169,7 @@
       <workItem from="1758719419860" duration="523000" />
       <workItem from="1758807880600" duration="763000" />
       <workItem from="1758888568543" duration="637000" />
-      <workItem from="1759066733100" duration="83000" />
+      <workItem from="1759066733100" duration="701000" />
     </task>
     <servers />
   </component>
