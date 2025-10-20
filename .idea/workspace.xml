@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="" />
+    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="Add solution for leetcode 2130: Maximum Pair Sum in a Linked List" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,6 +185,7 @@
       <workItem from="1760538658433" duration="692000" />
       <workItem from="1760627252407" duration="496000" />
       <workItem from="1760663682540" duration="78000" />
+      <workItem from="1760794155006" duration="1749000" />
     </task>
     <servers />
   </component>
