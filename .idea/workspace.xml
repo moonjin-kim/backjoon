@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="Add solution for leetcode 2130: Maximum Pair Sum in a Linked List" />
+    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="Add solution for leetcode 2130: Maximum Pair Sum in a Linked List">
+      <change afterPath="$PROJECT_DIR$/leetcode/bfs/ch1161.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,6 +189,8 @@
       <workItem from="1760627252407" duration="496000" />
       <workItem from="1760663682540" duration="78000" />
       <workItem from="1760794155006" duration="1749000" />
+      <workItem from="1760965249425" duration="578000" />
+      <workItem from="1761024056643" duration="290000" />
     </task>
     <servers />
   </component>
