@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="Add solution for leetcode 2130: Maximum Pair Sum in a Linked List">
-      <change afterPath="$PROJECT_DIR$/leetcode/dfs/ch841.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/ch700.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -195,7 +193,7 @@
       <workItem from="1760794155006" duration="1749000" />
       <workItem from="1760965249425" duration="578000" />
       <workItem from="1761024056643" duration="783000" />
-      <workItem from="1761140513208" duration="197000" />
+      <workItem from="1761140513208" duration="5668000" />
     </task>
     <servers />
   </component>
