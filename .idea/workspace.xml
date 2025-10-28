@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="Add solution for leetcode 215: Kth Largest Element in an Array and 746: Min Cost Climbing Stairs">
-      <change afterPath="$PROJECT_DIR$/leetcode/dp/ch1143.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/dp/ch62.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/dp/ch714.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/게임_맵_최단거리.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/네트워크.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/bfs/ch107.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/bfs/ch130.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,6 +202,8 @@
       <workItem from="1761354418890" duration="722000" />
       <workItem from="1761488832923" duration="1008000" />
       <workItem from="1761568517452" duration="113000" />
+      <workItem from="1761658845521" duration="1330000" />
+      <workItem from="1761748124782" duration="914000" />
     </task>
     <task id="LOCAL-00001" summary="Add solution for leetcode 547: Number of Provinces">
       <option name="closed" value="true" />
