@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="Add solution for leetcode 215: Kth Largest Element in an Array and 746: Min Cost Climbing Stairs">
+      <change afterPath="$PROJECT_DIR$/프로그래머스/LEVEL3/징검다리건너기.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +74,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26574.91" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26574.91" />
+        <option value="bundled-jdk-9823dce3aa75-84258761d1cc-intellij.indexing.shared.core-IU-243.28141.18" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.28141.18" />
       </set>
     </attachedChunks>
   </component>
@@ -218,6 +219,8 @@
       <workItem from="1764160208653" duration="1040000" />
       <workItem from="1764331369906" duration="422000" />
       <workItem from="1764512668608" duration="859000" />
+      <workItem from="1764594755438" duration="658000" />
+      <workItem from="1764675881374" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Add solution for leetcode 547: Number of Provinces">
       <option name="closed" value="true" />
