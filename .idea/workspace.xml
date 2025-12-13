@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="Add solution for leetcode 215: Kth Largest Element in an Array and 746: Min Cost Climbing Stairs">
-      <change afterPath="$PROJECT_DIR$/프로그래머스/LEVEL3/외벽점검.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/LEVEL3/광고삽입.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +226,8 @@
       <workItem from="1764859438847" duration="116000" />
       <workItem from="1765118035955" duration="448000" />
       <workItem from="1765288767320" duration="2900000" />
-      <workItem from="1765465600900" duration="13000" />
+      <workItem from="1765465600900" duration="1744000" />
+      <workItem from="1765635981285" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="Add solution for leetcode 547: Number of Provinces">
       <option name="closed" value="true" />
