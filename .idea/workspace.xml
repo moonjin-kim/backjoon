@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="Add solution for leetcode 215: Kth Largest Element in an Array and 746: Min Cost Climbing Stairs">
-      <change afterPath="$PROJECT_DIR$/leetcode/dp/ch63.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="486" />
+    <option name="cachedIndexableFilesCount" value="487" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -240,6 +239,7 @@
       <workItem from="1765719248549" duration="376000" />
       <workItem from="1765896380076" duration="629000" />
       <workItem from="1766239807852" duration="48000" />
+      <workItem from="1766412872492" duration="1309000" />
     </task>
     <task id="LOCAL-00001" summary="Add solution for leetcode 547: Number of Provinces">
       <option name="closed" value="true" />
