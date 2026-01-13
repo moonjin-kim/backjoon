@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="490" />
+    <option name="cachedIndexableFilesCount" value="492" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -242,6 +242,8 @@
       <workItem from="1766412872492" duration="1309000" />
       <workItem from="1767967518991" duration="1943000" />
       <workItem from="1768137159286" duration="102000" />
+      <workItem from="1768224299443" duration="1558000" />
+      <workItem from="1768260764733" duration="286000" />
     </task>
     <task id="LOCAL-00001" summary="Add solution for leetcode 547: Number of Provinces">
       <option name="closed" value="true" />
