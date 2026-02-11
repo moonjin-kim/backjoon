@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="leetcode two pointer 2" />
+    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="leetcode dp ch300.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,6 +256,7 @@
       <workItem from="1770381156154" duration="101000" />
       <workItem from="1770473933653" duration="127000" />
       <workItem from="1770649059622" duration="646000" />
+      <workItem from="1770729385580" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="Add solution for leetcode 547: Number of Provinces">
       <option name="closed" value="true" />
@@ -313,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770474045778</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="leetcode dp ch300.md">
+      <option name="closed" value="true" />
+      <created>1770729438839</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770729438839</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +346,8 @@
     <MESSAGE value="leetcode dp ch122" />
     <MESSAGE value="leetcode HASH 73" />
     <MESSAGE value="leetcode two pointer 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode two pointer 2" />
+    <MESSAGE value="leetcode dp ch300.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode dp ch300.md" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
