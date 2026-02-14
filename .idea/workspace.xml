@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="Add solution for leetcode 215: Kth Largest Element in an Array and 746: Min Cost Climbing Stairs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="leetcode dp ch111.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +12,6 @@
   </component>
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="495" />
-    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,11 +25,15 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/moonjin-kim/backjoon.git&quot;,
-    &quot;accountId&quot;: &quot;4ebab369-3bcc-4289-9c49-8a473fb38b20&quot;
+    &quot;accountId&quot;: &quot;f92f6185-1d87-4e20-b498-1e9204e6fc7f&quot;
   }
 }</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -43,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -82,8 +84,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
-        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
       </set>
     </attachedChunks>
   </component>
@@ -249,8 +251,13 @@
       <workItem from="1768832686329" duration="2469000" />
       <workItem from="1768912987658" duration="827000" />
       <workItem from="1769698040339" duration="681000" />
-      <workItem from="1769868568278" duration="378000" />
-      <workItem from="1769990250650" duration="864000" />
+      <workItem from="1770209398387" duration="168000" />
+      <workItem from="1770298620231" duration="242000" />
+      <workItem from="1770381156154" duration="101000" />
+      <workItem from="1770473933653" duration="127000" />
+      <workItem from="1770649059622" duration="646000" />
+      <workItem from="1770729385580" duration="61000" />
+      <workItem from="1770818865627" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="Add solution for leetcode 547: Number of Provinces">
       <option name="closed" value="true" />
@@ -276,17 +283,89 @@
       <option name="project" value="LOCAL" />
       <updated>1761266949377</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="leetcode dp ch122">
+      <option name="closed" value="true" />
+      <created>1770209500794</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770209500794</updated>
+    </task>
+    <task id="LOCAL-00005" summary="leetcode dp ch122">
+      <option name="closed" value="true" />
+      <created>1770209560449</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770209560449</updated>
+    </task>
+    <task id="LOCAL-00006" summary="leetcode HASH 73">
+      <option name="closed" value="true" />
+      <created>1770298783939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770298783939</updated>
+    </task>
+    <task id="LOCAL-00007" summary="leetcode two pointer 2">
+      <option name="closed" value="true" />
+      <created>1770474045778</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770474045778</updated>
+    </task>
+    <task id="LOCAL-00008" summary="leetcode dp ch300.md">
+      <option name="closed" value="true" />
+      <created>1770729438839</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770729438839</updated>
+    </task>
+    <task id="LOCAL-00009" summary="leetcode dp ch300.md">
+      <option name="closed" value="true" />
+      <created>1770818991047</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770818991047</updated>
+    </task>
+    <task id="LOCAL-00010" summary="leetcode dp ch111.md">
+      <option name="closed" value="true" />
+      <created>1770819029143</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770819029143</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add solution for leetcode 547: Number of Provinces" />
     <MESSAGE value="Add solution for leetcode 1926: Nearest Exit from Entrance in Maze" />
     <MESSAGE value="Add solution for leetcode 215: Kth Largest Element in an Array and 746: Min Cost Climbing Stairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution for leetcode 215: Kth Largest Element in an Array and 746: Min Cost Climbing Stairs" />
+    <MESSAGE value="leetcode dp ch122" />
+    <MESSAGE value="leetcode HASH 73" />
+    <MESSAGE value="leetcode two pointer 2" />
+    <MESSAGE value="leetcode dp ch300.md" />
+    <MESSAGE value="leetcode dp ch111.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode dp ch111.md" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
