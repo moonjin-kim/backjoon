@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="ch208. Course Schedule 2" />
+    <list default="true" id="4a3741aa-06bc-44af-bf31-26c281c06b39" name="Changes" comment="ch208. Course Schedule 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +263,7 @@
       <workItem from="1771114030352" duration="1263000" />
       <workItem from="1771242539155" duration="412000" />
       <workItem from="1771421002085" duration="49000" />
-      <workItem from="1771591498988" duration="2317000" />
+      <workItem from="1771591498988" duration="3601000" />
     </task>
     <task id="LOCAL-00001" summary="Add solution for leetcode 547: Number of Provinces">
       <option name="closed" value="true" />
